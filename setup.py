@@ -18,7 +18,7 @@ tests_requires = [
     "pytest-pep8~=1.0",
     "pytest-cov~=2.5",
     "pytest-twisted<1.6",
-    "treq~=17.8",
+    "treq>=17.8,<23.0",
     "responses~=0.9.0",
     "httpretty~=0.9.0",
 ]
